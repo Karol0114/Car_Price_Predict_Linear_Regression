@@ -3,3 +3,4 @@ This is my first project where I create a linear regression model to predict the
 
 # Link to the dataset I used in the project : https://www.kaggle.com/datasets/hellbuoy/car-price-prediction
 
+# A better choice for data analysis will be a Jupyter file
